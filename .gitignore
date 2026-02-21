@@ -360,7 +360,6 @@ Credentials.cs
 #ProCubeConfig
 ProCubeConfig.cs
 
-#DotNet Tools Config
 dotnet-tools.json
 
 .DS_Store
